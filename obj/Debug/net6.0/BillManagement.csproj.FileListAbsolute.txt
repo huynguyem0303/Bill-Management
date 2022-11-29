@@ -1,0 +1,15 @@
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.csproj.AssemblyReference.cache
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfoInputs.cache
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfo.cs
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.csproj.CoreCompileInputs.cache
+E:\PRN211\Workspace\BillManagement\bin\Debug\net6.0\BillManagement.exe
+E:\PRN211\Workspace\BillManagement\bin\Debug\net6.0\BillManagement.deps.json
+E:\PRN211\Workspace\BillManagement\bin\Debug\net6.0\BillManagement.runtimeconfig.json
+E:\PRN211\Workspace\BillManagement\bin\Debug\net6.0\BillManagement.dll
+E:\PRN211\Workspace\BillManagement\bin\Debug\net6.0\BillManagement.pdb
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.dll
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\refint\BillManagement.dll
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.pdb
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\BillManagement.genruntimeconfig.cache
+E:\PRN211\Workspace\BillManagement\obj\Debug\net6.0\ref\BillManagement.dll
